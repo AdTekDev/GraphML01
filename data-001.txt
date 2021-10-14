@@ -1,0 +1,8 @@
+Dublin
+Paris
+Milan
+Rome
+Milan,Dublin, 5
+Milan,Paris, 7
+Paris,Dublin, 12
+Milan,Rome, 9
